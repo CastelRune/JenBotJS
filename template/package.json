@@ -1,0 +1,15 @@
+{
+  "name": "jenbot",
+  "version": "1.0.0",
+  "description": "JenBot-CLI template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Everything seems okay\""
+  },
+  "author": "Jaymun723",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}

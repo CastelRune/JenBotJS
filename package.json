@@ -1,0 +1,27 @@
+{
+  "name": "jenbot-cli",
+  "version": "0.1.2",
+  "description": "A CLI to easly make bot.",
+  "main": "app.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo test"
+  },
+  "keywords": [
+    "CLI",
+    "JenBot",
+    "JB",
+    "discord",
+    "bot"
+  ],
+  "bin": {
+    "jb": "./app.js"
+  },
+  "author": "Jaymun723",
+  "license": "MIT"
+}
